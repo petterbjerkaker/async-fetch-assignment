@@ -10,25 +10,25 @@ const fetchData = async ()=>{
 
 			const img = document.createElement("img");
 			if(index === 0) {
-				img.src = "/assets/images/planets/tatooine.jpg";
+				img.src = "assets/images/planets/tatooine.jpg";
 			}if(index === 1){
-				img.src = "/assets/images/planets/alderaan.png";
+				img.src = "assets/images/planets/alderaan.png";
 			}if(index === 2){
-				img.src = "/assets/images/planets/yavin-iv.webp";
+				img.src = "assets/images/planets/yavin-iv.webp";
 			}if(index === 3){
-				img.src = "/assets/images/planets/hoth.jpg";
+				img.src = "assets/images/planets/hoth.jpg";
 			}if(index === 4){
-				img.src = "/assets/images/planets/dagobah.jpg";
+				img.src = "assets/images/planets/dagobah.jpg";
 			}if(index === 5){
-				img.src = "/assets/images/planets/bespin.webp";
+				img.src = "assets/images/planets/bespin.webp";
 			}if(index === 6){
-				img.src = "/assets/images/planets/endor.jpg";
+				img.src = "assets/images/planets/endor.jpg";
 			}if(index === 7){
-				img.src = "/assets/images/planets/naboo.webp";
+				img.src = "assets/images/planets/naboo.webp";
 			}if(index === 8){
-				img.src = "/assets/images/planets/coruscant.webp";
+				img.src = "assets/images/planets/coruscant.webp";
 			}if(index === 9){
-				img.src = "/assets/images/planets/kamino.webp";
+				img.src = "assets/images/planets/kamino.webp";
 			}
 			
 

@@ -10,17 +10,17 @@ const fetchData = async ()=>{
 
 			const img = document.createElement("img");
 			if(index === 0) {
-				img.src = "/assets/images/films/a-new-hope.jpg";
+				img.src = "assets/images/films/a-new-hope.jpg";
 			}if(index === 1){
-				img.src = "/assets/images/films/empire-strikes-back.jpg";
+				img.src = "assets/images/films/empire-strikes-back.jpg";
 			}if(index === 2){
-				img.src = "/assets/images/films/return-of-the-jedi.jpg";
+				img.src = "assets/images/films/return-of-the-jedi.jpg";
 			}if(index === 3){
-				img.src = "/assets/images/films/the-phantom-menace.jpg";
+				img.src = "assets/images/films/the-phantom-menace.jpg";
 			}if(index === 4){
-				img.src = "/assets/images/films/attack-of-the-clones.jpg";
+				img.src = "assets/images/films/attack-of-the-clones.jpg";
 			}if(index === 5){
-				img.src = "/assets/images/films/revenge-of-the-sith.jpg";
+				img.src = "assets/images/films/revenge-of-the-sith.jpg";
 			}
 			
 
