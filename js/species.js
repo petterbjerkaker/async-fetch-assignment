@@ -10,25 +10,25 @@ const fetchData = async ()=>{
 
 			const img = document.createElement("img");
 			if(index === 0) {
-				img.src = "/assets/images/species/human.webp";
+				img.src = "assets/images/species/human.webp";
 			}if(index === 1){
-				img.src = "/assets/images/species/droid.webp";
+				img.src = "assets/images/species/droid.webp";
 			}if(index === 2){
-				img.src = "/assets/images/species/wookie.webp";
+				img.src = "assets/images/species/wookie.webp";
 			}if(index === 3){
-				img.src = "/assets/images/species/rodian.webp";
+				img.src = "assets/images/species/rodian.webp";
 			}if(index === 4){
-				img.src = "/assets/images/species/hutt.webp";
+				img.src = "assets/images/species/hutt.webp";
 			}if(index === 5){
-				img.src = "/assets/images/species/yoda.webp";
+				img.src = "assets/images/species/yoda.webp";
 			}if(index === 6){
-				img.src = "/assets/images/species/trandoshan.webp";
+				img.src = "assets/images/species/trandoshan.webp";
 			}if(index === 7){
-				img.src = "/assets/images/species/mon_calamari.webp";
+				img.src = "assets/images/species/mon_calamari.webp";
 			}if(index === 8){
-				img.src = "/assets/images/species/ewok.webp";
+				img.src = "assets/images/species/ewok.webp";
 			}if(index === 9){
-				img.src = "/assets/images/species/sullustan.webp";
+				img.src = "assets/images/species/sullustan.webp";
 			}
 			
 
